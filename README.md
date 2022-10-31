@@ -3,7 +3,7 @@
 
 - 🛠️ Working as a Java Developer on <a href="https://zgsolucoes.com.br/" target="blank">ZG</a>
 
-- 🖥️ Even tough im a full time dedicated Java Developer my interests and hobbies are everywhere, I'm a Linux enthusiasthic always tinkering around with some fun ideas, but I also like to read and study stuff about Physics, CG, Game Development, Design, Storytelling, Archelogy, Quantum Computing, Astronomy, Philosophy and the list just keeps on going.
+- 🖥️ Even though im a full time dedicated Java Developer my interests and hobbies are everywhere, I'm a Linux enthusiasthic always tinkering around with some fun ideas, but I also like to read and study stuff about Physics, CG, Game Development, Design, Storytelling, Archelogy, Quantum Computing, Astronomy, Philosophy and the list just keeps on going.
 
 - 📫 Feel free to mail me at any time. I am always ready to talk about stuff or hear about opportunities: **pedrolucasdgm@gmail.com**
 
