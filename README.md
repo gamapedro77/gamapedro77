@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, You can call me Pedro!</h1>
-<h3 align="center">I am a Java Developer with expertise on working for the WEB and a curiosity on almost everything</h3>
+<h3 align="center">I am a Java Developer with expertise on working for the WEB and a curiosity for almost everything</h3>
 
 - 🛠️ Working as a Java Developer on <a href="https://zgsolucoes.com.br/" target="_blank">ZG</a>
 
