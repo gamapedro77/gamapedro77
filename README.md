@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, You can call me Pedro!</h1>
 <h3 align="center">I am a Java Developer with expertise on working for the WEB and a curiosity on almost everything</h3>
 
-- 🛠️ Working as a Java Developer on ZG
+- 🛠️ Working as a Java Developer on <a href="https://zgsolucoes.com.br/" target="blank">ZG</a>
 
 - 🖥️ Even tough im a full time dedicated Java Developer my interests and hobbies are everywhere, I'm a Linux enthusiasthic always tinkering around with some fun ideas, but I also like to read and study stuff about Physics, CG, Game Development, Design, Storytelling, Archelogy, Quantum Computing, Astronomy, Philosophy and the list just keeps on going.
 
