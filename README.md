@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Meu nome é Pedro Gama</h1>
 <h3 align="center">Um desenvolvedor full-stack apaixonado por aprender e por inovar</h3>
 
-- 🛠️ No momento estou procurando trabalho como **Desenvolvedor Web**
+- 🛠️ No momento estou estagiando como Desenvolvedor Java Full-Stack
 
 - 🖥️ Meu objetivo é colaborar em **Projetos inovadores de impacto.**
 
