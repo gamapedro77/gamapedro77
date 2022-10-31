@@ -1,11 +1,11 @@
-<h1 align="center">Olá 👋, Meu nome é Pedro Gama</h1>
-<h3 align="center">Um desenvolvedor full-stack apaixonado por aprender e por inovar</h3>
+<h1 align="center">Hi 👋, You can call me Pedro!</h1>
+<h3 align="center">I am a Java Developer with expertise on working for the WEB and a curiosity on almost everything</h3>
 
-- 🛠️ No momento estou estagiando como Desenvolvedor Java Full-Stack
+- 🛠️ Working as a Java Developer on ZG
 
-- 🖥️ Meu objetivo é colaborar em **Projetos inovadores de impacto.**
+- 🖥️ Even tough im a full time dedicated Java Developer my interests and hobbies are everywhere, I'm a Linux enthusiasthic always tinkering around with some fun ideas, but I also like to read and study stuff about Physics, CG, Game Development, Design, Storytelling, Archelogy, Quantum Computing, Astronomy, Philosophy and the list just keeps on going.
 
-- 📫 Entre em contanto: **pedrolucasdgm@gmail.com**
+- 📫 Feel free to mail me at any time. I am always ready to talk about stuff or hear about opportunities: **pedrolucasdgm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
