@@ -7,6 +7,8 @@
 
 - 📫 Feel free to mail me at any time. I am always ready to talk about stuff or hear about opportunities: **pedrolucasdgm@gmail.com**
 
+- You might notice I'm not very active on github, the reason for that is because most my projects and experiences are behind some sort of NDA on other platforms! 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gamapedroca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamapedroca" height="30" width="40" /></a>
